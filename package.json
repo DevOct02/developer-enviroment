@@ -1,0 +1,14 @@
+{
+  "name": "tc",
+  "version": "1.3.6",
+  "description": "terms and condition",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Basant",
+  "license": "BSD",
+  "dependencies": {
+    "express": "~4.13.0"
+  }
+}
